@@ -1,0 +1,23 @@
+{
+  "name": "google-map-search",
+  "version": "1.0.0",
+  "description": "google map api search",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "author": "Mikayel",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.2",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "dependencies": {
+    "@types/googlemaps": "^3.43.2",
+    "axios": "^0.21.1"
+  }
+}

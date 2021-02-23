@@ -1,0 +1,25 @@
+html{
+    font-family: sans-serif;
+}
+
+#map{
+    width: 90%;
+    height: 22rem;
+    border: 1px solid #0af;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+form{
+    text-align: center;
+    margin: 2rem auto;
+}
+
+#address {
+    border-radius: 8%;
+    border-color: #0af;
+}
