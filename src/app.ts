@@ -44,7 +44,7 @@ const searchAddressHandler = (event: Event) => {
     name: "Somewhere near Nottingham",
   });
 
-  document.getElementById("map")!.innerHTML = ""; // clear <p> from <div id="map">
+  document.getElementById("map")!.innerHTML = ""; 
   new ol.Map({
     target: "map",
     layers: [
