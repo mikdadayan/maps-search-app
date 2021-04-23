@@ -3,7 +3,7 @@ html{
 }
 
 #map{
-    width: 90%;
+    width: 92%;
     height: 22rem;
     border: 1px solid #0af;
     margin: 2rem auto;
@@ -16,10 +16,10 @@ html{
 
 form{
     text-align: center;
-    margin: 2rem auto;
+    margin: 3rem auto;
 }
 
 #address {
-    border-radius: 8%;
+    border-radius: 10%;
     border-color: #0af;
 }
